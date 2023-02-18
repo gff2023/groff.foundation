@@ -1,1 +1,1 @@
-The Groff Family Foundation is a 501(c)(3) corporation dedicated to community-focused high-impact charitable giving. Our areas of focus are supporting veterans and their families, the battle against cancer and other diseases, enhancing K-12 and college education, and advancing animal welfare and environmental conservation.
+## [About](pages/about.md)
