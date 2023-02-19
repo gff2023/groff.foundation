@@ -1,5 +1,5 @@
 
-## [Home](../index.md)
+## [Home](https://groff.foundation)
 
 ## About
 
