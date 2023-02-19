@@ -1,5 +1,5 @@
-## [Home](https://groff.foundation)
-
 ## Projects
 
 *Work in Progress...*
+
+[Home](https://groff.foundation)
