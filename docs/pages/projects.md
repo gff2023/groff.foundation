@@ -2,4 +2,4 @@
 
 *Work in Progress...*
 
-[Home](https://groff.foundation)
+## [Home](https://groff.foundation)
