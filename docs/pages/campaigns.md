@@ -1,4 +1,4 @@
-## Current Campaings
+## Current Campaigns
 
 <iframe
     src="https://www.paypal.com/giving/campaigns?campaign_id=SNEVF2Z99VRBW"
