@@ -1,2 +1,4 @@
 ## [About](pages/about.md)
-## [Projects](pages/projects.md)
+## [Current Campaigns](pages/campaigns.md)
+## [Current Projects](pages/projects.md)
+## [Archives](pages/archives.md)
