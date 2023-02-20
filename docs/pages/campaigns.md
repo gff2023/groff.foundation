@@ -9,6 +9,6 @@
     scrolling="no"
 ></iframe>
 
-![Campaign QR Code](../img/suessef_campaign.png)
+<center>![Campaign QR Code](../img/suessef_campaign.png)</center>
 
 
