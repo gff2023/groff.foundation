@@ -8,7 +8,8 @@
     height=480
     scrolling="no"
 ></iframe>
-
-<center>![Campaign QR Code](../img/suessef_campaign.png)</center>
+<p align="center">
+  <img src="https://groff.foundation/docs/img/suessef_campaign.png" />
+</p>
 
 
