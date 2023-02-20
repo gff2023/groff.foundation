@@ -8,4 +8,7 @@
     height=550
     scrolling="no"
 ></iframe>
-![Campaign QR Code](img/suessef_campaign.png)
+
+![Campaign QR Code](../img/suessef_campaign.png)
+
+
