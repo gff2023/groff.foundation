@@ -9,7 +9,7 @@
     scrolling="no"
 ></iframe>
 <p align="center">
-  <img src="https://groff.foundation/docs/img/suessef_campaign.png" />
+  <img src="https://groff.foundation/img/suessef_campaign.png" />
 </p>
 
 
