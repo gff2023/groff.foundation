@@ -8,8 +8,7 @@
     height=480
     scrolling="no"
 ></iframe>
-<p align="center">
-  <img src="https://groff.foundation/img/suessef_campaign.png" />
-</p>
+<img src="https://groff.foundation/img/suessef_campaign.png" />
+
 
 
