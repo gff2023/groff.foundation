@@ -5,7 +5,7 @@
     title="PayPal donate campaign card"
     frameborder="0"
     width=382
-    height=550
+    height=500
     scrolling="no"
 ></iframe>
 
