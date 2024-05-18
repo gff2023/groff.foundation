@@ -7,7 +7,7 @@
     width=382
     height=550
     scrolling="no"
-></iframe><img src="https://groff.foundation/img/starlight_studio_campaign.png" />
+></iframe>
 
 ## Past Campaigns
 
@@ -19,4 +19,3 @@
     height=480
     scrolling="no"
 ></iframe>
-<img src="https://groff.foundation/img/suessef_campaign.png" />
