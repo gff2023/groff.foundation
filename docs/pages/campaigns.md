@@ -7,8 +7,7 @@
     width=382
     height=550
     scrolling="no"
-></iframe>
-<img src="https://groff.foundation/img/starlight_studio_campaign.png" />
+></iframe><img src="https://groff.foundation/img/starlight_studio_campaign.png" />
 
 ## Past Campaigns
 
