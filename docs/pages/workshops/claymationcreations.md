@@ -12,4 +12,4 @@ In this exciting five-week workshop, students in grades 3-5 will explore the art
 * Use accessible tools and technology to produce animations.
 * Get ready to mold your imagination into motion!
 
-## [Register](https://www.paypal.com/ncp/payment/ZG7BYU3E3K6NC)
+## [Register](https://docs.google.com/forms/d/e/1FAIpQLSeob3RJqQuDadx8e8wLYpcourlKHOrv0_ikhZa2tRn7MZSg3g/viewform?usp=sf_link)
