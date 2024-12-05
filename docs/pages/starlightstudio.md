@@ -2,6 +2,5 @@
 
 ## Upcoming Classes
 
-* Claymation Creations: Bringing Stories to Life
+* WORKSHOP FULL - Claymation Creations: Bringing Stories to Life
   * [Description](workshops/claymationcreations.md)
-  * [Register](https://forms.gle/5ioCDCHHGYyaSzsPA)
