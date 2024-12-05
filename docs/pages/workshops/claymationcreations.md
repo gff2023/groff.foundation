@@ -1,3 +1,5 @@
+# WORKSHOP FULL - STAY TUNED FOR FUTURE OFFERINGS
+
 # Claymation Creations: Bringing Stories to Life
 
 ## Course Description: 
@@ -11,5 +13,3 @@ In this exciting five-week workshop, students in grades 3-5 will explore the art
 * Collaborate with peers in a fun, supportive environment.
 * Use accessible tools and technology to produce animations.
 * Get ready to mold your imagination into motion!
-
-## [Register](https://forms.gle/5ioCDCHHGYyaSzsPA)
