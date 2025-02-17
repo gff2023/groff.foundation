@@ -1,4 +1,4 @@
-# Starlight Studio
+# Starlight Studio Workshops
 
 ## Upcoming Classes
 
