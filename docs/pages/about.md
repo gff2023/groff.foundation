@@ -1,8 +1,8 @@
 ## About
 
-The Groff Family Foundation is a West Virginia based 501(c)(3) corporation dedicated to community-focused high-impact charitable giving. The Foundation's areas of focus are supporting veterans and their families, the battle against cancer and other diseases, enhancing K-12 and college education, and advancing animal welfare and environmental conservation. It was incorporated in memory of Warren J. Groff on January 1, 2023.
+Starlight Studio provides STEAM (science, technology, engineering, art, and mathematics) educational enrichment oppertuntities for K-12 students in the eastern panhandled of West Virginia. It is a program of the Groff Family Foundation, a West Virginia based 501(c)(3) corporation dedicated to community-focused high-impact charitable work. 
 
-## Board of Directors
+## Directors
 
 Dr. Jeffrey R. Groff, President and Chairman of the Board
 
